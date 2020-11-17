@@ -6,6 +6,7 @@ In this repository we provide Jupyter Notebooks for random forest, gradient boos
 
 Citation:
 
+````
 @InProceedings{PHME20-GTU,
     author = {Kürşat İnce and Engin Sirkeci and Yakup Genç},
     title = {Remaining Useful Life Prediction for Experimental Filtration System: A Data Challenge},
@@ -16,3 +17,4 @@ Citation:
     editor = {Anibal Bregon & Kamal Medjaher},
     note = {Available at https://phmpapers.org/index.php/phme/article/view/1317}
 }
+````
