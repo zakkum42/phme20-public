@@ -4,7 +4,7 @@ Maintenance costs of industrial systems often exceed the initial investment cost
 
 In this repository we provide Jupyter Notebooks for random forest, gradient boosting, and Gaussian process pipelines for the Data Challange. Your results may be different than our results in the paper because of the randomness used in algorithm initializations.
 
-Before you start, you shall download [challenge dataset]((http://phmeurope.org/2020/data-challenge-2020)) and extract that in [input](input) folder. We provide the following notebooks:
+Before you start, you shall download [challenge dataset](http://phmeurope.org/2020/data-challenge-2020) and extract that in [input](input) folder. We provide the following notebooks:
 
 * [Random Forest Pipeline](PHME20_RF_Pipeline.ipynb)
 * [CatBoost Pipeline](PHME20_CB_Pipeline.ipynb)
